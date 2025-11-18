@@ -1,5 +1,3 @@
----
-
 # Build a Job Board App with Next.js & Prisma
 
 <div align="center">
@@ -70,9 +68,3 @@ npx prisma generate
 npx prisma migrate dev
 
 npm run dev
-```
-
-Your app will be available at: [http://localhost:3000](http://localhost:3000)
-
----
-
