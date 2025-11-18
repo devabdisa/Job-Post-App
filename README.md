@@ -49,13 +49,6 @@
 
 ## 👌 Quick Start
 
-### Prerequisites
-
-* [Node.js](https://nodejs.org/)
-* [PostgreSQL Database](https://www.postgresql.org/)
-* [Prisma CLI](https://www.prisma.io/docs/getting-started)
-* [Next.js](https://nextjs.org/)
-
 ### Clone and Run
 
 ```bash
